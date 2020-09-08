@@ -40,6 +40,7 @@ namespace native {
 namespace vulkan {
 namespace api {
 
+struct Adapter;
 struct Command;
 class Context;
 struct Descriptor;
